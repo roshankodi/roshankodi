@@ -30,10 +30,9 @@
 I’m a developer passionate about building practical applications with clean design and meaningful user experiences.  
 My interests include **Web Development**, **AI-powered applications**, and **real-time systems**.
 
-- I’m currently strengthening my skills in **full-stack development**
-- I like building projects that combine **clean UI + real functionality**
-- I use my portfolio as the main hub for my work and professional profile
-
+- Currently expanding my skills in **full-stack development and AI**
+- Interested in building projects that combine **clean UI and practical functionality**
+- Focused on creating applications that solve real-world problems
 ---
 
 ### 🧩 roshan.config.json
@@ -41,7 +40,7 @@ My interests include **Web Development**, **AI-powered applications**, and **rea
 ```json
 {
   "name": "Kodi Roshan",
-  "role": "CSE Student | Full-Stack Enthusiast",
+  "role": "CSE Student | Full-Stack Developer | AI Enthusiast",
   "focus": [
     "AI-powered applications",
     "Real-time web apps",
@@ -111,7 +110,7 @@ Building Side Projects • Exploring New Technologies • Reading Tech Blogs •
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=roshankodi&show_icons=true&theme=ocean&hide_border=true"/>
+<img src="https://ghstats.dev/api/card?username=roshankodi&theme=midnight&hide=prs%2Cissues%2Ctrend%2Cavg" alt="GitHub Stats Card" />
 </p>
 
 <p align="center">
