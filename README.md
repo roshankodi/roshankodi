@@ -116,7 +116,7 @@ Modern responsive portfolio with dark mode, project showcase, certifications, re
 
 ### 📊 GitHub Analytics
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=roshankodi&theme=midnight&hide=prs%2Cissues%2Ctrend%2Cavg)
+<img src="https://ghstats.dev/api/card?username=roshankodi&theme=midnight&hide=prs%2Cissues%2Ctrend%2Cavg" alt="GitHub Stats Card" />
 
 ---
 
