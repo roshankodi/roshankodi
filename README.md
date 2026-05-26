@@ -56,7 +56,7 @@ My work focuses on **Web Development**, **AI-powered learning tools** and **real
   ],
   "tech_mindset": "Building, Learning, and Growing Every Day."
 }
-
+```
 ---
 
 ### 🚀 Featured Projects
