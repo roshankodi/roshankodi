@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:2563eb&height=160&section=header&text=Kodi%20Roshan&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0f172a,100:3b82f6&height=180&section=header&text=Kodi%20Roshan&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 </p>
 <h1 align="center">Hi, I'm Kodi Roshan 👋</h1>
 <p align="center">
