@@ -117,6 +117,9 @@ Modern responsive portfolio with dark mode, project showcase, certifications, re
 ### 📊 GitHub Analytics
 
 <img src="https://ghstats.dev/api/card?username=roshankodi&theme=midnight&hide=prs%2Cissues%2Ctrend%2Cavg" alt="GitHub Stats Card" />
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankodi&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
