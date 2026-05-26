@@ -98,8 +98,9 @@ Modern responsive portfolio with dark mode, project showcase, certifications, re
 <h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,mongodb,git,github,vscode,firebase" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,mongodb,git,github,vscode,firebase,tailwind,bootstrap,vite" />
 </p>
+
 ---
 
 <h3 align="center">🎯 Interests</h3>
@@ -125,7 +126,7 @@ Building Side Projects • Exploring New Technologies • Reading Tech Blogs •
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=roshankodi&show_icons=true&theme=github_dark&hide_border=true"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=roshankodi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---
