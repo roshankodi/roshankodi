@@ -126,6 +126,10 @@ Modern responsive portfolio with dark mode, project showcase, certifications, re
 <img src="https://streak-stats.demolab.com/?user=roshankodi&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankodi&theme=tokyo-night&hide_border=true"/>
+</p>
+
 ---
 
 ### 🤝 Connect With Me
