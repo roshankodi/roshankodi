@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0f172a,100:1d4ed8&text=Kodi%20Roshan&fontSize=38&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1026,30:0F2D73,70:2563EB,100:3B82F6&text=Kodi%20Roshan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
 </p>
 <h1 align="center">Hi, I'm Kodi Roshan 👋</h1>
 <p align="center">
@@ -12,15 +12,26 @@
 </p>
 
 <p align="center">
-  <a href="https://roshankodi.github.io/portfolio-me/">
-    <img src="https://img.shields.io/badge/Portfolio-Live%20Site-0ea5e9?style=for-the-badge&logo=githubpages&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/kodi-roshan-78858b356/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:roshankodi019@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<a href="https://roshankodi.github.io/portfolio-me/">
+<img src="https://img.shields.io/badge/🚀_Portfolio-111827?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://roshankodi.github.io/portfolio-me/">
+<img src="https://img.shields.io/badge/🌐_Live_Site-0ea5e9?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kodi-roshan-78858b356/">
+<img src="https://img.shields.io/badge/💼_LinkedIn-1d4ed8?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="https://github.com/roshankodi">
+<img src="https://img.shields.io/badge/🤝_Connect-2563eb?style=for-the-badge&logoColor=white"/>
+</a>
+
+<a href="mailto:roshankodi019@gmail.com">
+<img src="https://img.shields.io/badge/✉️_Email-dc2626?style=for-the-badge&logoColor=white"/>
+</a>
+
 </p>
 
 ---
