@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi, I'm Kodi Roshan 👋</h1>
 <p align="center">
-  <b>CSE Student</b> • <b>Technical Support & Full-Stack Enthusiast</b> • <b>Building practical AI and web products</b>
+  <b>CSE Student</b> • <b>CSE Student • Full-Stack Developer • AI Enthusiast</b> • <b>Building practical AI and web products</b>
 </p>
 
 <p align="center">
@@ -27,8 +27,8 @@
 
 ### About Me
 
-I’m a developer who enjoys building products that are useful, polished, and easy to use.  
-My work focuses on **Web Development**, **AI-powered learning tools** and **real-time applications**.
+I’m a developer passionate about building practical applications with clean design and meaningful user experiences.  
+My interests include **Web Development**, **AI-powered applications**, and **real-time systems**.
 
 - I’m currently strengthening my skills in **full-stack development**
 - I like building projects that combine **clean UI + real functionality**
@@ -36,7 +36,7 @@ My work focuses on **Web Development**, **AI-powered learning tools** and **real
 
 ---
 
-### What I Build
+### 🧩 roshan.config.json
 
 ```json
 {
@@ -59,31 +59,32 @@ My work focuses on **Web Development**, **AI-powered learning tools** and **real
 ```
 ---
 
-### 🚀 Featured Projects
+<h3 align="center">🚀 Featured Projects</h3>
 
-#### 📚 StudySync
+#### 📚 [StudySync](https://github.com/roshankodi/StudySync)
+
 AI-powered study platform designed to improve learning with smart tools and interactive experiences.
 
 **Focus:** AI Integration • Responsive UI • Productivity
 
-#### 💬 SyncTalk
+#### 💬 [SyncTalk](https://github.com/roshankodi/synctalk)
 A real-time communication platform with room-based chat and a clean user experience.
 
 **Tech:** React • Node.js • Socket.IO
 
-#### 📈 Car Price Prediction
+#### 📈 [Car Price Prediction](https://github.com/roshankodi/car-price-prediction)
 Machine learning project for predicting vehicle prices using historical data and feature engineering.
 
 **Tech:** Python • Flask • Scikit-Learn
 
-#### 🌐 Portfolio Website
+#### 🌐 [Portfolio Website](https://github.com/roshankodi/portfolio-me)
 Modern responsive portfolio with dark mode, project showcase, certifications, resume access, and social integration.
 
 **Tech:** React • JavaScript • HTML • CSS
 
 ---
 
-### 💻 Tech Stack
+<h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,mongodb,git,github,vscode" />
@@ -91,7 +92,7 @@ Modern responsive portfolio with dark mode, project showcase, certifications, re
 
 ---
 
-### 🎯 Interests
+<h3 align="center">🎯 Interests</h3>
 
 - Full-Stack Development
 - Artificial Intelligence
@@ -103,7 +104,7 @@ Modern responsive portfolio with dark mode, project showcase, certifications, re
 
 ---
 
-### 🎵 Hobbies
+<h3 align="center">🎵 Hobbies</h3>
 
 - Building side projects
 - Exploring new technologies
@@ -114,17 +115,19 @@ Modern responsive portfolio with dark mode, project showcase, certifications, re
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-<img src="https://ghstats.dev/api/card?username=roshankodi&theme=midnight&hide=prs%2Cissues%2Ctrend%2Cavg" alt="GitHub Stats Card" />
+<img src="https://ghstats.dev/api/card?username=roshankodi&theme=midnight&hide=prs%2Cissues%2Ctrend%2Cavg"/>
+</p>
 
+<p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankodi&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-### 🤝 Connect With Me
+<h3 align="center">🤝 Connect With Me</h3>
 
 <p align="center">
 
