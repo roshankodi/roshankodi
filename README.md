@@ -119,17 +119,17 @@ Modern responsive portfolio with dark mode, project showcase, certifications, re
 ### 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshankodi&show_icons=true&theme=nightowlk&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=roshankodi&show_icons=true&theme=ocean&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshankodi&layout=compact&theme=nightowl&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshankodi&layout=compact&theme=ocean&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=roshankodi&theme=nightowl&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=roshankodi&theme=ocean&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankodi&theme=nightowl&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=roshankodi&theme=ocean&hide_border=true"/>
 </p>
 
 ---
