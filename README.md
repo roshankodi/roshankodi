@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi, I'm Kodi Roshan 👋</h1>
 <p align="center">
-  <b>CSE Student</b> • <b>CSE Student • Full-Stack Developer • AI Enthusiast</b> • <b>Building practical AI and web products</b>
+  <b>CSE Student</b> • <b>Full-Stack Developer</b> • <b>AI Enthusiast</b> • <b>Building practical AI and web products</b>
 </p>
 
 <p align="center">
@@ -63,17 +63,17 @@ My interests include **Web Development**, **AI-powered applications**, and **rea
 
 #### 📚 [StudySync](https://github.com/roshankodi/StudySync)
 
-AI-powered study platform designed to improve learning with smart tools and interactive experiences.
+AI-powered learning platform focused on smarter studying and interactive learning experiences.
 
 **Focus:** AI Integration • Responsive UI • Productivity
 
 #### 💬 [SyncTalk](https://github.com/roshankodi/synctalk)
-A real-time communication platform with room-based chat and a clean user experience.
+Real-time chat application featuring room-based messaging and responsive user experience.
 
 **Tech:** React • Node.js • Socket.IO
 
 #### 📈 [Car Price Prediction](https://github.com/roshankodi/car-price-prediction)
-Machine learning project for predicting vehicle prices using historical data and feature engineering.
+Machine learning application for vehicle price prediction using data-driven analysis.
 
 **Tech:** Python • Flask • Scikit-Learn
 
@@ -94,31 +94,24 @@ Modern responsive portfolio with dark mode, project showcase, certifications, re
 
 <h3 align="center">🎯 Interests</h3>
 
-- Full-Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Real-Time Applications
-- UI / UX Design
-- Problem Solving
-- Cloud Technologies
+<p align="center">
+Full-Stack Development • Artificial Intelligence • Machine Learning • Real-Time Applications • UI/UX Design • Problem Solving • Cloud Technologies
+</p>
 
 ---
 
 <h3 align="center">🎵 Hobbies</h3>
 
-- Building side projects
-- Exploring new technologies
-- Reading tech blogs
-- Listening to music
-- Playing badminton
-- Learning new tools and frameworks
+<p align="center">
+Building Side Projects • Exploring New Technologies • Reading Tech Blogs • Listening to Music • Playing Badminton • Learning New Tools
+</p>
 
 ---
 
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-<img src="https://ghstats.dev/api/card?username=roshankodi&theme=midnight&hide=prs%2Cissues%2Ctrend%2Cavg"/>
+<img src="https://github-readme-stats.vercel.app/api?username=roshankodi&show_icons=true&theme=ocean&hide_border=true"/>
 </p>
 
 <p align="center">
