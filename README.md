@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1026,30:0F2D73,70:2563EB,100:3B82F6&text=Kodi%20Roshan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:111827,100:2563eb&text=Kodi%20Roshan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
 </p>
 <h1 align="center">Hi, I'm Kodi Roshan 👋</h1>
 <p align="center">
@@ -9,6 +9,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=700&lines=Full-Stack+Developer+%7C+AI+Enthusiast;Building+modern+and+practical+applications;Turning+ideas+into+real-world+products;Always+learning+and+improving" alt="Typing SVG" />
+
 </p>
 
 <p align="center">
@@ -16,7 +17,7 @@
 <img src="https://img.shields.io/badge/🚀_Portfolio-111827?style=for-the-badge&logoColor=white"/>
 </a>
 
-<a href="https://roshankodi.github.io/portfolio-me/">
+<a href="https://studysync-8v0b.onrender.com">
 <img src="https://img.shields.io/badge/🌐_Live_Site-0ea5e9?style=for-the-badge&logoColor=white"/>
 </a>
 
