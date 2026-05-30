@@ -4,7 +4,7 @@
 </p>
 <h1 align="center">Hi, I'm Kodi Roshan 👋</h1>
 <p align="center">
-  <b>CSE Student</b> • <b>Full-Stack Developer</b> • <b>AI Enthusiast</b> • <b>Building practical AI and web products</b>
+  <b>CSE Student</b> • <b>Full-Stack Developer</b> • <b>AI-Powered Applications</b> • <b>scalable web applications</b> • <b>real-world products</b>
 </p>
 
 <p align="center">
