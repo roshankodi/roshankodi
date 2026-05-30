@@ -98,7 +98,7 @@ Modern responsive portfolio with dark mode, project showcase, certifications, re
 <h3 align="center">💻 Tech Stack</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,flask,mongodb,git,github,vscode,firebase,tailwind,bootstrap,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,postgres,mongodb,redis,python,git,github,firebase,tailwind,vite,vscode" />
 </p>
 
 ---
