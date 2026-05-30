@@ -129,10 +129,6 @@ Building Side Projects • Exploring New Technologies • Reading Tech Blogs •
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=roshankodi&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=roshankodi&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
 ----
 
 <h3 align="center">🤝 Connect With Me</h3>
