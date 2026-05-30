@@ -130,6 +130,11 @@ Building Side Projects • Exploring New Technologies • Reading Tech Blogs •
 </p>
 
 ---
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=roshankodi&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+-----
 
 <h3 align="center">🤝 Connect With Me</h3>
 
