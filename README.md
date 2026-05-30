@@ -74,7 +74,7 @@ My interests include **Web Development**, **AI-powered applications**, and **rea
 
 #### 📚 [StudySync](https://github.com/roshankodi/StudySync)
 
-AI-powered learning platform focused on smarter studying and interactive learning experiences.
+Real-time chat application with room-based messaging, Socket.IO communication, and responsive UI.
 
 **Focus:** AI Integration • Responsive UI • Productivity
 
