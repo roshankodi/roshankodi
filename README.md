@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1026,30:0F2D73,70:2563EB,100:3B82F6&text=Kodi%20Roshan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=Dhanya%20Sree%20Gopinigari&fontSize=45&fontColor=ffffff"/>
 </p>
 <h1 align="center">Hi, I'm Kodi Roshan 👋</h1>
 <p align="center">
