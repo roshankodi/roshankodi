@@ -83,15 +83,16 @@ Real-time chat application featuring room-based messaging and responsive user ex
 
 **Tech:** React • Node.js • Socket.IO
 
+#### 🧠 [SyncSolve](https://github.com/roshankodi/SyncSolve)
+
+AI-powered problem-solving platform designed to help users solve coding, mathematical, and logical challenges through an intuitive and modern interface.
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • AI Integration
+
 #### 📈 [Car Price Prediction](https://github.com/roshankodi/car-price-prediction)
 Machine learning application for vehicle price prediction using data-driven analysis.
 
 **Tech:** Python • Flask • Scikit-Learn
-
-#### 🌐 [Portfolio Website](https://github.com/roshankodi/portfolio-me)
-Modern responsive portfolio with dark mode, project showcase, certifications, resume access, and social integration.
-
-**Tech:** React • JavaScript • HTML • CSS
 
 ---
 
@@ -114,7 +115,7 @@ Full-Stack Development • Artificial Intelligence • Machine Learning • Real
 <h3 align="center">🎵 Hobbies</h3>
 
 <p align="center">
-Building Side Projects • Exploring New Technologies • Reading Tech Blogs • Listening to Music • Playing Badminton • Learning New Tools
+Building Side Projects • Exploring New Technologies • Reading Tech Blogs • Listening to Music • Playing Badminton • Playing Guitar • Learning New Tools
 </p>
 
 ---
@@ -141,7 +142,7 @@ Portfolio
 <a href="https://github.com/roshankodi">
 GitHub
 </a> •
-<a href="https://www.linkedin.com/in/kodi-roshan-78858b356/">
+<a href="https://www.linkedin.com/in/kodi-roshan/">
 LinkedIn
 </a>
 
