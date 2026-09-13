@@ -77,7 +77,7 @@ My interests include **full-stack development, AI-powered applications, real-tim
 
 <h3 align="center">🚀 Featured Projects</h3>
 
-#### 📚 [StudySync](https://github.com/roshankodi/StudySync)
+#### 📚 [StudySync](https://github.com/roshankodi/studysync-v2)
 
 AI-powered learning platform with document analysis, RAG-based Q&A, intelligent tutoring, and automated quiz generation.
 
@@ -89,7 +89,7 @@ Multimodal document intelligence platform for PDF Q&A, classification, and risk 
 
 **Tech:** Next.js • TypeScript • Gemini • RAG • Qdrant • Supabase
 
-#### 🔗 [Relay](https://github.com/roshankodi/Relay)
+#### 🔗 [Relay](https://github.com/roshankodi/Relay-v2)
 
 Collaborative media review platform with timestamped video comments and image annotations, powered by Google Drive integration.
 
