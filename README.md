@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:3b82f6,100:60a5fa&height=220&section=header&text=Kodi%20Roshan&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi, I'm Kodi Roshan</h1> <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
+<h1 align="center">Hi, I'm Kodi Roshan <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/></h1>
 
 <p align="center">
   <b>CSE Student</b> • <b>Full-Stack Developer</b> • <b>AI Enthusiast</b> • <b>Real-Time Systems</b>
@@ -79,25 +79,37 @@ My interests include **full-stack development, AI-powered applications, real-tim
 
 #### 📚 [StudySync](https://github.com/roshankodi/StudySync)
 
-AI-powered personalized learning platform that helps students learn smarter through intelligent tutoring, document analysis, quiz generation, AI summaries, and performance analytics.
+AI-powered learning platform with document analysis, RAG-based Q&A, intelligent tutoring, and automated quiz generation.
 
-**Tech:** Next.js • TypeScript • PostgreSQL • Redis • Qdrant • AI
+**Tech:** Next.js • TypeScript • Prisma • PostgreSQL • Redis • Supabase • Qdrant
+
+#### 🧠 [DocFin AI](https://github.com/roshankodi/DocFin-AI)
+
+Multimodal document intelligence platform for PDF Q&A, classification, and risk analysis with grounded AI responses.
+
+**Tech:** Next.js • TypeScript • Gemini • RAG • Qdrant • Supabase
+
+#### 🔗 [Relay](https://github.com/roshankodi/Relay)
+
+Collaborative media review platform with timestamped video comments and image annotations, powered by Google Drive integration.
+
+**Tech:** Node.js • Supabase • Google Drive API • OAuth • RLS
 
 #### 💬 [SyncTalk](https://github.com/roshankodi/synctalk)
 
-Real-time chat application featuring room-based messaging, Socket.IO communication, authentication, chat history, and a responsive interface.
+Real-time chat application with room-based messaging, persistent chat history, WebSocket communication, REST APIs, and responsive UI.
 
-**Tech:** React • Node.js • Socket.IO • MongoDB • Tailwind CSS
+**Tech:** React • Node.js • Express.js • Socket.IO • MongoDB
 
-#### 🧠 [SyncSolve](https://github.com/roshankodi/SyncSolve)
+#### 🧩 [SyncSolve](https://github.com/roshankodi/SyncSolve)
 
-Problem-solving platform designed to help users solve coding, mathematical, and logical challenges through an intuitive and modern interface.
+Full-stack puzzle platform featuring Sudoku solving and chess analysis through an interactive web interface.
 
 **Tech:** Next.js • TypeScript • Tailwind CSS • Spring Boot
 
 #### 📈 [Car Price Prediction](https://github.com/roshankodi/car-price-prediction)
 
-Machine learning application for predicting vehicle prices using data analysis and regression-based modeling.
+Machine learning web application for used-car price prediction using data preprocessing, feature engineering, and a trained regression model.
 
 **Tech:** Python • Flask • Scikit-Learn
 
