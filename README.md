@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/🚀_Portfolio-111827?style=for-the-badge"/>
 </a>
 
-<a href="https://studysync-g941.onrender.com">
+<a href="https://studysync-v2.onrender.com/">
 <img src="https://img.shields.io/badge/🌐_StudySync-0ea5e9?style=for-the-badge"/>
 </a>
 
