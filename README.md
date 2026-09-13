@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:3b82f6,100:60a5fa&height=220&section=header&text=Kodi%20Roshan&fontSize=45&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 </p>
 
-<h1 align="center">Hi, I'm Kodi Roshan 👋</h1>
+<h1 align="center">Hi, I'm Kodi Roshan</h1> <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 <p align="center">
   <b>CSE Student</b> • <b>Full-Stack Developer</b> • <b>AI Enthusiast</b> • <b>Real-Time Systems</b>
