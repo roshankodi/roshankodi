@@ -97,7 +97,7 @@ Collaborative media review platform with timestamped video comments and image an
 
 #### 💬 [SyncTalk](https://github.com/roshankodi/synctalk)
 
-Real-time chat application with room-based messaging, persistent chat history, WebSocket communication, REST APIs, and responsive UI.
+Real-time chat application with room-based messaging, persistent chat history, Web-Socket communication, REST APIs, and responsive UI.
 
 **Tech:** React • Node.js • Express.js • Socket.IO • MongoDB
 
